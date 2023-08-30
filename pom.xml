@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.samberic</groupId>
 	<artifactId>keccakj</artifactId>
-	<version>1.2.0</version>
+	<version>1.2.1-SNAPSHOT</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Pure Java implementation of FIPS202 (and Keccak). Provides implementations of SHA3-224, SHA3-256, SHA3-384, SHA3-512, SHAKE128 and SHAKE256
 
